@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<config>
+    <host>localhost</host>
+    <user>root</user>
+    <password></password>
+    <db>historisation</db>
+    <table1>societes</table1>
+    <table2>adresses</table2>
+    <table3>listejuridique</table3>
+</config>
